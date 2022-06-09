@@ -691,6 +691,7 @@
 #content .featured-wrapper .featured-bottom .video-wrapper {
   width: 65%;
   position: relative;
+  display:flex;
 }
 
 #content .featured-wrapper .featured-bottom .video-wrapper .video {
