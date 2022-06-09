@@ -370,6 +370,10 @@
   font-family: "Montserrat Alternates", sans-serif;
   font-weight: 700;
   color: #093e52;
+  transition: all .3s ease-in;
+}
+#content .events-wrapper .events-inner-wrapper .events .bottom-sec .bottom-left .upcoming-events-inner .events-date .event-date-item .event-description .event-text:hover {
+  letter-spacing:1.3px;
 }
 
 #content .events-wrapper .events-inner-wrapper .events .bottom-sec .bottom-left .upcoming-events-inner .events-date .event-date-item .event-description .event-hour {
